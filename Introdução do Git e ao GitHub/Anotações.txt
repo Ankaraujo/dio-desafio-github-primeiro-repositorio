@@ -1,2 +1,24 @@
 Link para download do Git https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Comandos Git
+
+cd = navegar entre as pastas 
+
+cd.. = voltar uma pasta 
+
+cls = limpar a tela  
+
+dir = listar pastas  
+
+del = deletar (deleta só o arquivo) 
+
+rmdir = Deleta o repositório Tem que usar duas flagues /S /Q  
+
+mkdir = criar pasta  
+
+echo = imprimi na tela o que eu digitar 
+
+Seta pra cima atalho para facilitar a encontrar os comandos já dados 
+
+dir -a = mostra pastas ocultas 
