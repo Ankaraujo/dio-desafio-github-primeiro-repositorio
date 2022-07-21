@@ -6,7 +6,7 @@ Repositório criado para o Desafio de Projeto
 
 ------
 
-![](C:\Users\Anaka\OneDrive\Documentos\CURSOS\Digital Innovation One\Santander Code Girls\GetImage.png)
+
 
 ###### **Introdução ao Git e ao GitHub**
 
