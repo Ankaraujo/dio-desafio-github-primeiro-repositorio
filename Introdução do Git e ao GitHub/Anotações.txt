@@ -7,8 +7,6 @@ cd = navegar entre as pastas
 
 cd.. = voltar uma pasta 
 
-cls = limpar a tela  
-
 dir = listar pastas  
 
 del = deletar (deleta só o arquivo) 
